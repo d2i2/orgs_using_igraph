@@ -1,0 +1,29 @@
+id, role, lvl
+IC1, Data Scientist, 1
+IC2, Data Scientist, 1
+IC3, Data Engineer, 1
+IC4, Data Analyst, 1
+IC5, Research Coordinator, 1
+IC6, UX Researcher, 1
+IC7, UX Researcher, 1
+IC8, UX Researcher, 1
+IC9, Viz Designer, 1
+IC10, Viz Designer, 1
+IC11, IX Designer, 1
+IC12, IX Designer, 1
+IC13, SW Dev, 1
+IC14, SW Dev, 1
+IC15, DevOps Eng, 1
+IC16, DevOps Eng, 1
+IC17, Bus Analyst, 1
+IC18, Scrum Master, 1
+IC19, Proj Manager, 1
+MGR1, UX Mgr, 2
+MGR2, UX Mgr, 2
+MGR3, Dev Mgr, 2
+MGR4, Product Mgr, 2
+MGR5, Program Mgr, 2
+DIR1, Director-UX, 3
+DIR2, Director-Prod & Dev, 3
+DIR3, Director-Program Mgmt, 3
+VP1, VP-Prod & Dev, 4
